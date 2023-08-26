@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/72562470/179736437-3e8f7dfe-2132-496d-956a-3e10de35eb96.png" width="200" height="200" alt="cinemax_logo">
+  <img src="https://user-images.githubusercontent.com/72562470/179736437-3e8f7dfe-2132-496d-956a-3e10de35eb96.png" width="200" height="200" alt="Etcinemax_logo">
 </div>
 
-<h1><b>Cinemax is a free and open source Android app for streaming Movies and TV-Series.</b></h1>
+<h1><b>ETCinemax is a free and open source Android app for streaming Movies and TV-Series.</b></h1>
 
 <h3>Buy me a coffee if you like my work!</h3>
-<a href="https://www.buymeacoffee.com/cinemaxapp"><img src="https://helloimjessa.files.wordpress.com/2021/06/bmc-button.png" height="90" width="320.4" alt="buy me a coffee"></a>
+<a href="https://www.buymeacoffee.com/bereket.zelalem"><img src="https://helloimjessa.files.wordpress.com/2021/06/bmc-button.png" height="90" width="320.4" alt="buy me a coffee"></a>
 
 Some UI and API functionality from: [Here](https://github.com/bimsina/Matinee-Flutter)
 
@@ -51,7 +51,7 @@ If opening an issue without following the issue template, we will ignore the iss
 
 The developers of this application does not have any affiliation with the content providers like TMDB or third party websites.
 
-Cinemax does not host any content on the app, and has no control over what media is put up or taken down.
+EtCinemax does not host any content on the app, and has no control over what media is put up or taken down.
 
 In case of copyright infringement, please directly contact the responsible parties or the streaming websites.
 
@@ -60,7 +60,7 @@ It merely scrapes 3rd-party websites that are publicly accessable via any regula
 ---
 
 <i>GNU, but for Entertainment</i>
-<h4 align='center'>© 2023 ツ BeamlakAschalew</h4>
+<h4 align='center'>© 2023 ツ Bereket Zelalem</h4>
 
 <!-- DO NOT REMOVE THIS CREDIT 🤬 -->
 
